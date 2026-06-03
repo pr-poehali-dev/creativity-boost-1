@@ -6,7 +6,7 @@ import { ArrowRight } from "lucide-react"
 const articles = [
   {
     title: "Лахта Центр: башня на краю земли",
-    category: "Архитектура",
+    category: "Инженерия",
     image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/02fafdd8-b106-4d00-9e62-bfeb008c7e5a.jpg",
   },
   {
@@ -15,7 +15,7 @@ const articles = [
     image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/3258e0b3-99db-40e4-890c-3cd9cf85779d.jpg",
   },
   {
-    title: "СК Арена: спорт и архитектура",
+    title: "СК Арена: спорт и инженерия",
     category: "Спорт",
     image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/2af530e1-fa53-46bd-8028-601818340f46.jpg",
   },
