@@ -2,8 +2,8 @@ import { useRef } from "react"
 import { motion, useScroll, useTransform } from "framer-motion"
 
 const images = [
-  "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/02fafdd8-b106-4d00-9e62-bfeb008c7e5a.jpg",
   "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/7e68dcb1-a42f-4d4e-8d7a-6245ecc91205.jpg",
+  "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/02fafdd8-b106-4d00-9e62-bfeb008c7e5a.jpg",
   "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/2af530e1-fa53-46bd-8028-601818340f46.jpg",
 ]
 
