@@ -77,8 +77,8 @@ export function HeroSection() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.8 }}
       >
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif text-center text-foreground mix-blend-difference">
-          Инженерия, <em className="italic">в кадре</em>.
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif text-center text-foreground mix-blend-difference max-w-5xl">
+          Исполнительная документация по всем <em className="italic">инженерным системам</em>.
         </h1>
       </motion.div>
 
