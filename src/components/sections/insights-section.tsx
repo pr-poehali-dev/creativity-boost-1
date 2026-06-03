@@ -5,24 +5,24 @@ import { ArrowRight } from "lucide-react"
 
 const articles = [
   {
-    title: "Искусство визуального сторителлинга",
-    category: "Дизайн",
-    image: "/visual-storytelling-design-article.jpg",
+    title: "Лахта Центр: башня на краю земли",
+    category: "Архитектура",
+    image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/02fafdd8-b106-4d00-9e62-bfeb008c7e5a.jpg",
   },
   {
-    title: "Как создать личный бренд онлайн",
-    category: "Стратегия",
-    image: "/personal-branding-digital-marketing.jpg",
+    title: "Промышленная эстетика: НПЗ в кадре",
+    category: "Индустрия",
+    image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/3258e0b3-99db-40e4-890c-3cd9cf85779d.jpg",
   },
   {
-    title: "Тренды типографики 2025",
-    category: "Типографика",
-    image: "/typography-trends-modern-fonts.jpg",
+    title: "СК Арена: спорт и архитектура",
+    category: "Спорт",
+    image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/2af530e1-fa53-46bd-8028-601818340f46.jpg",
   },
   {
-    title: "Минимализм в дизайне портфолио",
-    category: "Вдохновение",
-    image: "/placeholder.svg?height=200&width=300",
+    title: "Подстанции: красота высокого напряжения",
+    category: "Энергетика",
+    image: "https://cdn.poehali.dev/projects/67e807a1-55a6-49bb-b972-fec08d3c96e0/files/e81d7806-1d4f-401e-9106-310fa5bf7954.jpg",
   },
 ]
 
@@ -43,7 +43,7 @@ export function InsightsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
         >
-          Статьи
+          Проекты
         </motion.p>
 
         <div className="divide-y divide-border">
